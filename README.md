@@ -5,7 +5,6 @@
  - Database
  - Architecture
 
-<<<<<<< HEAD
 ## Commands:
 
 Run production mode
@@ -37,6 +36,3 @@ Run telegram bot
 cd app/bot
 python run.py
 ```
-
-
->>>>>>> 01a728c (update: DDD)
